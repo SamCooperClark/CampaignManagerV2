@@ -1,0 +1,15 @@
+C:\Users\samco\Documents\VisualStudioProjects\CampaignManagerV2\CampaignManangerV2\bin\Debug\CampaignManangerV2.exe.config
+C:\Users\samco\Documents\VisualStudioProjects\CampaignManagerV2\CampaignManangerV2\bin\Debug\CampaignManangerV2.exe
+C:\Users\samco\Documents\VisualStudioProjects\CampaignManagerV2\CampaignManangerV2\bin\Debug\CampaignManangerV2.pdb
+C:\Users\samco\Documents\VisualStudioProjects\CampaignManagerV2\CampaignManangerV2\obj\Debug\CampaignManangerV2.csprojAssemblyReference.cache
+C:\Users\samco\Documents\VisualStudioProjects\CampaignManagerV2\CampaignManangerV2\obj\Debug\MainWindow.g.cs
+C:\Users\samco\Documents\VisualStudioProjects\CampaignManagerV2\CampaignManangerV2\obj\Debug\App.g.cs
+C:\Users\samco\Documents\VisualStudioProjects\CampaignManagerV2\CampaignManangerV2\obj\Debug\CampaignManangerV2_MarkupCompile.cache
+C:\Users\samco\Documents\VisualStudioProjects\CampaignManagerV2\CampaignManangerV2\obj\Debug\CampaignManangerV2_MarkupCompile.lref
+C:\Users\samco\Documents\VisualStudioProjects\CampaignManagerV2\CampaignManangerV2\obj\Debug\MainWindow.baml
+C:\Users\samco\Documents\VisualStudioProjects\CampaignManagerV2\CampaignManangerV2\obj\Debug\CampaignManangerV2.g.resources
+C:\Users\samco\Documents\VisualStudioProjects\CampaignManagerV2\CampaignManangerV2\obj\Debug\CampaignManangerV2.Properties.Resources.resources
+C:\Users\samco\Documents\VisualStudioProjects\CampaignManagerV2\CampaignManangerV2\obj\Debug\CampaignManangerV2.csproj.GenerateResource.cache
+C:\Users\samco\Documents\VisualStudioProjects\CampaignManagerV2\CampaignManangerV2\obj\Debug\CampaignManangerV2.csproj.CoreCompileInputs.cache
+C:\Users\samco\Documents\VisualStudioProjects\CampaignManagerV2\CampaignManangerV2\obj\Debug\CampaignManangerV2.exe
+C:\Users\samco\Documents\VisualStudioProjects\CampaignManagerV2\CampaignManangerV2\obj\Debug\CampaignManangerV2.pdb
